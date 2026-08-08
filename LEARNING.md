@@ -41,3 +41,4 @@ Career change into AI engineering, working toward shipping a RAG (retrieval-augm
 | 2026-08-08 | 0/01-dev-environment | 4/5 | Missed the PyTorch GPU-check syntax (torch.cuda.is_available()) — mixed it up with a nonexistent `import gpu`. |
 
 ## Review queue
+- Started Phase 0 setup on 2026-08-08
